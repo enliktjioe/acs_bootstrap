@@ -52,5 +52,3 @@ npm run serve
 <https://azure.microsoft.com/en-us/services/communication-services/>
 
 <https://docs.microsoft.com/en-us/azure/communication-services/quickstarts/chat/get-started?pivots=programming-language-javascript>
-
-![Azure Docker Build and Push](https://github.com/acxe12/acs/workflows/Azure%20Docker%20Build%20and%20Push/badge.svg?branch=master)
