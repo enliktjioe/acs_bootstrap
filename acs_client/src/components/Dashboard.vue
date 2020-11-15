@@ -70,6 +70,7 @@ export default {
       threadId: "",
       shouldRenderUser: false,
       shouldRenderAdmin: false,
+      userInfoReceived: false,
       messages: "",
     };
   },
