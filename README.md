@@ -6,7 +6,7 @@ Install Node.js (12.12.0 recommended).
 
 Create an Azure Communication Services resource. For details, see [Create an Azure Communication Resource](https://docs.microsoft.com/en-us/azure/communication-services/quickstarts/create-communication-resource?tabs=windows&pivots=platform-azp)
 
-CREATE Service Bus Premium (sessions should be supported). For details, see [Create Service Bus](https://azure.microsoft.com/en-us/services/service-bus/)
+CREATE Service Bus (Standart SKU, sessions should be supported). For details, see [Create Service Bus](https://azure.microsoft.com/en-us/services/service-bus/)
 
 CREATE 2 queues in Service Bus with sessions enabled: `users` and `threadcreated` 
 
