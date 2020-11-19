@@ -1,0 +1,13 @@
+version: "3.3"
+
+services:
+ acs_client:
+  build:
+    context: ./acs_client
+  expose:
+      - "8080"
+ acs_server:
+  build:
+    context: ./acs_server
+  expose:
+      - "8000"
